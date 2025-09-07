@@ -3,6 +3,8 @@
 🎓 MSc Computer Science student at the University of Coimbra, specializing in **Intelligent Systems**  
 🤖 Passionate about **AI, Machine Learning, Computer Vision and Backend**  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyfrandisco&layout=compact&theme=tokyonight)  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -29,10 +31,3 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
-
----
-
-## 📊 Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyfrandisco&layout=compact&theme=tokyonight)  
-
