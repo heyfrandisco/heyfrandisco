@@ -4,10 +4,11 @@
 🤖 Passionate about **AI, Machine Learning, Computer Vision and Backend**  
 
 ---
-
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyfrandisco&layout=compact&theme=tokyonight)  
 
 ---
+-->
 
 ## 🛠️ Tech Stack
 
