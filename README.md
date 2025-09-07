@@ -3,6 +3,8 @@
 🎓 MSc Computer Science student at the University of Coimbra, specializing in **Intelligent Systems**  
 🤖 Passionate about **AI, Machine Learning, Computer Vision and Backend**  
 
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyfrandisco&layout=compact&theme=tokyonight)  
 
 ---
