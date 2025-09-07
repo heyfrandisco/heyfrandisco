@@ -36,10 +36,3 @@
 
 ![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyfrandisco&show_icons=true&theme=tokyonight&hide=contribs,prs)  
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frandisco/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/heyfrandisco)  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2102-278X)  
