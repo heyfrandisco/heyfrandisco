@@ -34,5 +34,5 @@
 
 ## 📊 Stats
 
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyfrandisco&show_icons=true&theme=tokyonight&hide=contribs,prs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyfrandisco&layout=compact&theme=tokyonight)  
 
