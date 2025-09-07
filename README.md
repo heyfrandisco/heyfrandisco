@@ -13,11 +13,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Matlab](https://img.shields.io/badge/Matlab-FF7F0E?style=for-the-badge&logo=mathworks&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-FF7F0E?style=flat&logo=mathworks&logoColor=white)
 
 **Frameworks & Tools**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
