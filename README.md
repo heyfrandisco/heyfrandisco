@@ -1,4 +1,4 @@
-# Hi, I'm Francisco 👋
+# Hey, I'm Francisco
 
 🎓 MSc Computer Science student at the University of Coimbra, specializing in **Intelligent Systems**  
 🤖 Passionate about **AI, Machine Learning, Computer Vision and Backend Development**  
