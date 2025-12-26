@@ -10,7 +10,7 @@ Passionate about **AI, Machine Learning, Computer Vision and Backend Development
 ---
 -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
