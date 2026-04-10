@@ -1,7 +1,9 @@
 # Hey, I'm Francisco
 
-MSc Computer Science student at the University of Coimbra, specializing in **Intelligent Systems**  
-Passionate about **AI, Machine Learning, Computer Vision and Backend Development**  
+MSc in Computer Science and Engineering at the University of Coimbra, specializing in Intelligent Systems  
+SWE @ Critical FlyTech
+MLE @ IPN
+Passionate about AI, Machine Learning, Computer Vision and Backend Development
 
 ---
 <!--
